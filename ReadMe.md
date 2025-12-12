@@ -117,3 +117,9 @@ prophet
 statsmodels
 scikit-learn
 meteostat API
+
+## Team Members
+1. Krishnakanth Kelothu
+2. Mangipudi Lakshmi Sravya
+3. Deekshith Nayak
+4. Shrey Dhakar
