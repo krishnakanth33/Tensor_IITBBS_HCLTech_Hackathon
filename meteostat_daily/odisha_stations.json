@@ -1,0 +1,1796 @@
+{
+  "42265": {
+    "name": "{'en': 'Mainpuri'}",
+    "lat": 27.2333,
+    "lon": 79.05,
+    "meta": {
+      "id": "42265",
+      "name": {
+        "en": "Mainpuri"
+      },
+      "country": "IN",
+      "region": "UP",
+      "identifiers": {
+        "national": null,
+        "wmo": "42265",
+        "icao": null
+      },
+      "location": {
+        "latitude": 27.2333,
+        "longitude": 79.05,
+        "elevation": 156
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "1978-03-25"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 1970
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42459": {
+    "name": "{'en': 'Shivpuri'}",
+    "lat": 25.3333,
+    "lon": 77.65,
+    "meta": {
+      "id": "42459",
+      "name": {
+        "en": "Shivpuri"
+      },
+      "country": "IN",
+      "region": "MP",
+      "identifiers": {
+        "national": null,
+        "wmo": "42459",
+        "icao": null
+      },
+      "location": {
+        "latitude": 25.3333,
+        "longitude": 77.65,
+        "elevation": 463
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2002-05-28",
+          "end": "2025-04-05"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42782": {
+    "name": "{'en': 'Bilaspur / Bil?spur'}",
+    "lat": 22.1,
+    "lon": 82.1667,
+    "meta": {
+      "id": "42782",
+      "name": {
+        "en": "Bilaspur / Bil?spur"
+      },
+      "country": "IN",
+      "region": "CT",
+      "identifiers": {
+        "national": null,
+        "wmo": "42782",
+        "icao": null
+      },
+      "location": {
+        "latitude": 22.1,
+        "longitude": 82.1667,
+        "elevation": 267
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": null,
+          "end": null
+        }
+      }
+    }
+  },
+  "42783": {
+    "name": "{'en': 'Champa'}",
+    "lat": 22.0333,
+    "lon": 82.7,
+    "meta": {
+      "id": "42783",
+      "name": {
+        "en": "Champa"
+      },
+      "country": "IN",
+      "region": "MP",
+      "identifiers": {
+        "national": null,
+        "wmo": "42783",
+        "icao": null
+      },
+      "location": {
+        "latitude": 22.0333,
+        "longitude": 82.7,
+        "elevation": 244
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": "1951-01-01",
+          "end": "1970-12-31"
+        },
+        "monthly": {
+          "start": 1951,
+          "end": 1970
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42792": {
+    "name": "{'en': 'Sundargarh'}",
+    "lat": 22.0167,
+    "lon": 84.0,
+    "meta": {
+      "id": "42792",
+      "name": {
+        "en": "Sundargarh"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42792",
+        "icao": null
+      },
+      "location": {
+        "latitude": 22.0167,
+        "longitude": 84.0,
+        "elevation": 240
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2003-05-18",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42793": {
+    "name": "{'en': 'Rourkela'}",
+    "lat": 22.2167,
+    "lon": 84.8833,
+    "meta": {
+      "id": "42793",
+      "name": {
+        "en": "Rourkela"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42793",
+        "icao": "VERK"
+      },
+      "location": {
+        "latitude": 22.2167,
+        "longitude": 84.8833,
+        "elevation": 0
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-07-05",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2021-03-21",
+          "end": "2025-12-08"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42795": {
+    "name": "{'en': 'Chaibasa'}",
+    "lat": 22.55,
+    "lon": 85.8167,
+    "meta": {
+      "id": "42795",
+      "name": {
+        "en": "Chaibasa"
+      },
+      "country": "IN",
+      "region": "BR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42795",
+        "icao": null
+      },
+      "location": {
+        "latitude": 22.55,
+        "longitude": 85.8167,
+        "elevation": 0
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": "1901-01-05",
+          "end": "1978-07-28"
+        },
+        "monthly": {
+          "start": 1902,
+          "end": 1969
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42803": {
+    "name": "{'en': 'Midnapore'}",
+    "lat": 22.4167,
+    "lon": 87.3167,
+    "meta": {
+      "id": "42803",
+      "name": {
+        "en": "Midnapore"
+      },
+      "country": "IN",
+      "region": "WB",
+      "identifiers": {
+        "national": null,
+        "wmo": "42803",
+        "icao": null
+      },
+      "location": {
+        "latitude": 22.4167,
+        "longitude": 87.3167,
+        "elevation": 0
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-07-05",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1973-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "1978-08-08"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 1970
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42872": {
+    "name": "{'en': 'Mana / Raipur'}",
+    "lat": 21.2333,
+    "lon": 81.65,
+    "meta": {
+      "id": "42872",
+      "name": {
+        "en": "Mana / Raipur"
+      },
+      "country": "IN",
+      "region": "CT",
+      "identifiers": {
+        "national": null,
+        "wmo": "42872",
+        "icao": null
+      },
+      "location": {
+        "latitude": 21.2333,
+        "longitude": 81.65,
+        "elevation": 313
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2015-12-07",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42874": {
+    "name": "{'en': 'Pbo Raipur'}",
+    "lat": 21.2167,
+    "lon": 81.6667,
+    "meta": {
+      "id": "42874",
+      "name": {
+        "en": "Pbo Raipur"
+      },
+      "country": "IN",
+      "region": "MP",
+      "identifiers": {
+        "national": null,
+        "wmo": "42874",
+        "icao": null
+      },
+      "location": {
+        "latitude": 21.2167,
+        "longitude": 81.6667,
+        "elevation": 294
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1996-07-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42875": {
+    "name": "{'en': 'Raipur / Phundardih'}",
+    "lat": 21.2167,
+    "lon": 81.6667,
+    "meta": {
+      "id": "42875",
+      "name": {
+        "en": "Raipur / Phundardih"
+      },
+      "country": "IN",
+      "region": "MP",
+      "identifiers": {
+        "national": null,
+        "wmo": "42875",
+        "icao": "VARP"
+      },
+      "location": {
+        "latitude": 21.2167,
+        "longitude": 81.6667,
+        "elevation": 294
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2008-06-16",
+          "end": "2019-08-31"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "2023-10-05"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 2020
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42883": {
+    "name": "{'en': 'Sambalpur'}",
+    "lat": 21.4667,
+    "lon": 83.9667,
+    "meta": {
+      "id": "42883",
+      "name": {
+        "en": "Sambalpur"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42883",
+        "icao": null
+      },
+      "location": {
+        "latitude": 21.4667,
+        "longitude": 83.9667,
+        "elevation": 0
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-07-05",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 2020
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42884": {
+    "name": "{'en': 'Raigarh'}",
+    "lat": 21.8833,
+    "lon": 83.3833,
+    "meta": {
+      "id": "42884",
+      "name": {
+        "en": "Raigarh"
+      },
+      "country": "IN",
+      "region": "MP",
+      "identifiers": {
+        "national": null,
+        "wmo": "42884",
+        "icao": null
+      },
+      "location": {
+        "latitude": 21.8833,
+        "longitude": 83.3833,
+        "elevation": 214
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": "1950-09-01",
+          "end": "1970-12-31"
+        },
+        "monthly": {
+          "start": 1950,
+          "end": 1970
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42886": {
+    "name": "{'en': 'Jharsuguda'}",
+    "lat": 21.9167,
+    "lon": 84.0833,
+    "meta": {
+      "id": "42886",
+      "name": {
+        "en": "Jharsuguda"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42886",
+        "icao": "VEJH"
+      },
+      "location": {
+        "latitude": 21.9167,
+        "longitude": 84.0833,
+        "elevation": 228
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1957-01-02",
+          "end": "2025-12-08"
+        },
+        "daily": {
+          "start": "1949-08-11",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1949,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42891": {
+    "name": "{'en': 'Keongjhargarh'}",
+    "lat": 21.6167,
+    "lon": 85.5167,
+    "meta": {
+      "id": "42891",
+      "name": {
+        "en": "Keongjhargarh"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42891",
+        "icao": null
+      },
+      "location": {
+        "latitude": 21.6167,
+        "longitude": 85.5167,
+        "elevation": 461
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2001-09-17",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42894": {
+    "name": "{'en': 'Baripada'}",
+    "lat": 21.9333,
+    "lon": 86.7667,
+    "meta": {
+      "id": "42894",
+      "name": {
+        "en": "Baripada"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42894",
+        "icao": null
+      },
+      "location": {
+        "latitude": 21.9333,
+        "longitude": 86.7667,
+        "elevation": 53
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2009-02-05",
+          "end": "2025-06-11"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42895": {
+    "name": "{'en': 'Balasore'}",
+    "lat": 21.5167,
+    "lon": 86.9333,
+    "meta": {
+      "id": "42895",
+      "name": {
+        "en": "Balasore"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42895",
+        "icao": null
+      },
+      "location": {
+        "latitude": 21.5167,
+        "longitude": 86.9333,
+        "elevation": 18
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42946": {
+    "name": "{'en': 'Bramhapuri'}",
+    "lat": 20.6,
+    "lon": 79.85,
+    "meta": {
+      "id": "42946",
+      "name": {
+        "en": "Bramhapuri"
+      },
+      "country": "IN",
+      "region": "MM",
+      "identifiers": {
+        "national": null,
+        "wmo": "42946",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.6,
+        "longitude": 79.85,
+        "elevation": 227
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1983-10-18",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42953": {
+    "name": "{'en': 'Kanker'}",
+    "lat": 20.2667,
+    "lon": 81.4833,
+    "meta": {
+      "id": "42953",
+      "name": {
+        "en": "Kanker"
+      },
+      "country": "IN",
+      "region": "MP",
+      "identifiers": {
+        "national": null,
+        "wmo": "42953",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.2667,
+        "longitude": 81.4833,
+        "elevation": 393
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": "1927-05-01",
+          "end": "1970-12-30"
+        },
+        "monthly": {
+          "start": 1927,
+          "end": 1970
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42961": {
+    "name": "{'en': 'Titlagarh'}",
+    "lat": 20.3,
+    "lon": 83.3,
+    "meta": {
+      "id": "42961",
+      "name": {
+        "en": "Titlagarh"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42961",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.3,
+        "longitude": 83.3,
+        "elevation": 209
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": "1939-01-01",
+          "end": "1967-12-31"
+        },
+        "monthly": {
+          "start": 1939,
+          "end": 1967
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42963": {
+    "name": "{'en': 'Bolangir'}",
+    "lat": 20.7,
+    "lon": 83.5,
+    "meta": {
+      "id": "42963",
+      "name": {
+        "en": "Bolangir"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42963",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.7,
+        "longitude": 83.5,
+        "elevation": 0
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": null,
+          "end": null
+        }
+      }
+    }
+  },
+  "42966": {
+    "name": "{'en': 'Phulbani'}",
+    "lat": 20.4833,
+    "lon": 84.2667,
+    "meta": {
+      "id": "42966",
+      "name": {
+        "en": "Phulbani"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42966",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.4833,
+        "longitude": 84.2667,
+        "elevation": 488
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": null,
+          "end": null
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": null,
+          "end": null
+        }
+      }
+    }
+  },
+  "42969": {
+    "name": "{'en': 'Angul'}",
+    "lat": 20.8333,
+    "lon": 85.1,
+    "meta": {
+      "id": "42969",
+      "name": {
+        "en": "Angul"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42969",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.8333,
+        "longitude": 85.1,
+        "elevation": 137
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1973-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1906-01-01",
+          "end": "1970-12-31"
+        },
+        "monthly": {
+          "start": 1906,
+          "end": 1970
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42970": {
+    "name": "{'en': 'Cuttack'}",
+    "lat": 20.4667,
+    "lon": 85.9333,
+    "meta": {
+      "id": "42970",
+      "name": {
+        "en": "Cuttack"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42970",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.4667,
+        "longitude": 85.9333,
+        "elevation": 27
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "2005-05-19"
+        },
+        "monthly": {
+          "start": 1902,
+          "end": 1975
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42971": {
+    "name": "{'en': 'Bhubaneswar'}",
+    "lat": 20.25,
+    "lon": 85.8333,
+    "meta": {
+      "id": "42971",
+      "name": {
+        "en": "Bhubaneswar"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42971",
+        "icao": "VEBS"
+      },
+      "location": {
+        "latitude": 20.25,
+        "longitude": 85.8333,
+        "elevation": 45
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1957-01-02",
+          "end": "2025-12-09"
+        },
+        "daily": {
+          "start": "1918-04-01",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1918,
+          "end": 2022
+        },
+        "normals": {
+          "start": 1961,
+          "end": 2020
+        }
+      }
+    }
+  },
+  "42973": {
+    "name": "{'en': 'Chandbali'}",
+    "lat": 20.7833,
+    "lon": 86.7333,
+    "meta": {
+      "id": "42973",
+      "name": {
+        "en": "Chandbali"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42973",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.7833,
+        "longitude": 86.7333,
+        "elevation": 5
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1929-06-06",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1929,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "42976": {
+    "name": "{'en': 'Paradip C. W. R.'}",
+    "lat": 20.3,
+    "lon": 86.6833,
+    "meta": {
+      "id": "42976",
+      "name": {
+        "en": "Paradip C. W. R."
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "42976",
+        "icao": null
+      },
+      "location": {
+        "latitude": 20.3,
+        "longitude": 86.6833,
+        "elevation": 4
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "2002-05-21",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "43041": {
+    "name": "{'en': 'Jagdalpur'}",
+    "lat": 19.0833,
+    "lon": 82.0333,
+    "meta": {
+      "id": "43041",
+      "name": {
+        "en": "Jagdalpur"
+      },
+      "country": "IN",
+      "region": "MP",
+      "identifiers": {
+        "national": null,
+        "wmo": "43041",
+        "icao": null
+      },
+      "location": {
+        "latitude": 19.0833,
+        "longitude": 82.0333,
+        "elevation": 552
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1910-01-01",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1910,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 2020
+        }
+      }
+    }
+  },
+  "43042": {
+    "name": "{'en': 'Bhawanipatna'}",
+    "lat": 19.9167,
+    "lon": 83.1833,
+    "meta": {
+      "id": "43042",
+      "name": {
+        "en": "Bhawanipatna"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "43042",
+        "icao": null
+      },
+      "location": {
+        "latitude": 19.9167,
+        "longitude": 83.1833,
+        "elevation": 261
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1981-01-03",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1968-05-01",
+          "end": "1969-12-31"
+        },
+        "monthly": {
+          "start": 1969,
+          "end": 1969
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "43049": {
+    "name": "{'en': 'Gopalpur'}",
+    "lat": 19.2667,
+    "lon": 84.8833,
+    "meta": {
+      "id": "43049",
+      "name": {
+        "en": "Gopalpur"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "43049",
+        "icao": null
+      },
+      "location": {
+        "latitude": 19.2667,
+        "longitude": 84.8833,
+        "elevation": 16
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "43053": {
+    "name": "{'en': 'Puri'}",
+    "lat": 19.8,
+    "lon": 85.8167,
+    "meta": {
+      "id": "43053",
+      "name": {
+        "en": "Puri"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "43053",
+        "icao": null
+      },
+      "location": {
+        "latitude": 19.8,
+        "longitude": 85.8167,
+        "elevation": 5
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1973-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "2025-08-24"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "43097": {
+    "name": "{'en': 'Koraput'}",
+    "lat": 18.8167,
+    "lon": 82.7167,
+    "meta": {
+      "id": "43097",
+      "name": {
+        "en": "Koraput"
+      },
+      "country": "IN",
+      "region": "OR",
+      "identifiers": {
+        "national": null,
+        "wmo": "43097",
+        "icao": null
+      },
+      "location": {
+        "latitude": 18.8167,
+        "longitude": 82.7167,
+        "elevation": 0
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-07-05",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1973-01-13",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "1958-12-31"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 1957
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "43105": {
+    "name": "{'en': 'Kalingapatam'}",
+    "lat": 18.3333,
+    "lon": 84.1333,
+    "meta": {
+      "id": "43105",
+      "name": {
+        "en": "Kalingapatam"
+      },
+      "country": "IN",
+      "region": "AP",
+      "identifiers": {
+        "national": null,
+        "wmo": "43105",
+        "icao": null
+      },
+      "location": {
+        "latitude": 18.3333,
+        "longitude": 84.1333,
+        "elevation": 5
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1906-08-01",
+          "end": "2025-08-20"
+        },
+        "monthly": {
+          "start": 1906,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "43149": {
+    "name": "{'en': 'Vishakhapatnam'}",
+    "lat": 17.7167,
+    "lon": 83.2333,
+    "meta": {
+      "id": "43149",
+      "name": {
+        "en": "Vishakhapatnam"
+      },
+      "country": "IN",
+      "region": "AP",
+      "identifiers": {
+        "national": null,
+        "wmo": "43149",
+        "icao": null
+      },
+      "location": {
+        "latitude": 17.7167,
+        "longitude": 83.2333,
+        "elevation": 3
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": null,
+          "end": null
+        },
+        "daily": {
+          "start": "1901-01-01",
+          "end": "2025-08-21"
+        },
+        "monthly": {
+          "start": 1901,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1961,
+          "end": 2020
+        }
+      }
+    }
+  },
+  "43150": {
+    "name": "{'en': 'Cwc Vishakhapatnam / Waltair'}",
+    "lat": 17.7,
+    "lon": 83.3,
+    "meta": {
+      "id": "43150",
+      "name": {
+        "en": "Cwc Vishakhapatnam / Waltair"
+      },
+      "country": "IN",
+      "region": "AP",
+      "identifiers": {
+        "national": null,
+        "wmo": "43150",
+        "icao": null
+      },
+      "location": {
+        "latitude": 17.7,
+        "longitude": 83.3,
+        "elevation": 45
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1944-01-01",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": 2003,
+          "end": 2021
+        },
+        "normals": {
+          "start": 1991,
+          "end": 2020
+        }
+      }
+    }
+  },
+  "43301": {
+    "name": "{'en': 'Dharmapuri'}",
+    "lat": 12.1333,
+    "lon": 78.0333,
+    "meta": {
+      "id": "43301",
+      "name": {
+        "en": "Dharmapuri"
+      },
+      "country": "IN",
+      "region": "TN",
+      "identifiers": {
+        "national": null,
+        "wmo": "43301",
+        "icao": null
+      },
+      "location": {
+        "latitude": 12.1333,
+        "longitude": 78.0333,
+        "elevation": 396
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-01",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1977-11-25",
+          "end": "2025-06-15"
+        },
+        "daily": {
+          "start": "1975-12-01",
+          "end": "1984-06-30"
+        },
+        "monthly": {
+          "start": 1975,
+          "end": 1984
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "MMDO0": {
+    "name": "{'en': 'Durango / Rancho La Purisima'}",
+    "lat": 24.1249,
+    "lon": -104.5283,
+    "meta": {
+      "id": "MMDO0",
+      "name": {
+        "en": "Durango / Rancho La Purisima"
+      },
+      "country": "MX",
+      "region": "DUR",
+      "identifiers": {
+        "national": null,
+        "wmo": null,
+        "icao": "MMDO"
+      },
+      "location": {
+        "latitude": 24.1249,
+        "longitude": -104.5283,
+        "elevation": 1857
+      },
+      "timezone": "America/Monterrey",
+      "inventory": {
+        "model": {
+          "start": "2021-01-02",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1975-06-18",
+          "end": "2025-12-09"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  },
+  "VEVZ0": {
+    "name": "{'en': 'Vishakhapatnam / Gajuwaka'}",
+    "lat": 17.7212,
+    "lon": 83.2245,
+    "meta": {
+      "id": "VEVZ0",
+      "name": {
+        "en": "Vishakhapatnam / Gajuwaka"
+      },
+      "country": "IN",
+      "region": "AP",
+      "identifiers": {
+        "national": null,
+        "wmo": null,
+        "icao": "VEVZ"
+      },
+      "location": {
+        "latitude": 17.7212,
+        "longitude": 83.2245,
+        "elevation": 5
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-03-16",
+          "end": "2024-03-23"
+        },
+        "hourly": {
+          "start": "2021-03-15",
+          "end": "2021-03-15"
+        },
+        "daily": {
+          "start": null,
+          "end": null
+        },
+        "monthly": {
+          "start": null,
+          "end": null
+        },
+        "normals": {
+          "start": 1991,
+          "end": 2020
+        }
+      }
+    }
+  },
+  "VOVZ0": {
+    "name": "{'en': 'Vizagapatam / Gajuwaka'}",
+    "lat": 17.7167,
+    "lon": 83.2333,
+    "meta": {
+      "id": "VOVZ0",
+      "name": {
+        "en": "Vizagapatam / Gajuwaka"
+      },
+      "country": "IN",
+      "region": "AP",
+      "identifiers": {
+        "national": null,
+        "wmo": null,
+        "icao": "VOVZ"
+      },
+      "location": {
+        "latitude": 17.7167,
+        "longitude": 83.2333,
+        "elevation": 5
+      },
+      "timezone": "Asia/Kolkata",
+      "inventory": {
+        "model": {
+          "start": "2021-01-02",
+          "end": "2025-12-18"
+        },
+        "hourly": {
+          "start": "1954-01-01",
+          "end": "2025-12-09"
+        },
+        "daily": {
+          "start": "2016-03-10",
+          "end": "2022-04-25"
+        },
+        "monthly": {
+          "start": 2020,
+          "end": 2022
+        },
+        "normals": {
+          "start": 1961,
+          "end": 1990
+        }
+      }
+    }
+  }
+}
